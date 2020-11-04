@@ -1,0 +1,4914 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "美国",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": true,
+        "confirmAdd": 94463,
+        "confirmAddCut": 0,
+        "confirm": 9692528,
+        "suspect": 0,
+        "dead": 238641,
+        "heal": 6236170,
+        "nowConfirm": 3217717,
+        "confirmCompare": 124985,
+        "nowConfirmCompare": 58573,
+        "healCompare": 64768,
+        "deadCompare": 1644
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.36929,
+          39.789719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "印度",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 46253,
+        "confirmAddCut": 0,
+        "confirm": 8313876,
+        "suspect": 0,
+        "dead": 123611,
+        "heal": 7656478,
+        "nowConfirm": 533787,
+        "confirmCompare": 46253,
+        "nowConfirmCompare": -7618,
+        "healCompare": 53357,
+        "deadCompare": 514
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.96288,
+          20.593684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巴西",
+        "continent": "南美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 11843,
+        "confirmAddCut": 0,
+        "confirm": 5566049,
+        "suspect": 0,
+        "dead": 160496,
+        "heal": 5060697,
+        "nowConfirm": 344856,
+        "confirmCompare": 11843,
+        "nowConfirmCompare": -9659,
+        "healCompare": 21259,
+        "deadCompare": 243
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.935566,
+          -8.823114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "俄罗斯",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 1661096,
+        "suspect": 0,
+        "dead": 28611,
+        "heal": 1244012,
+        "nowConfirm": 388473,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.318756,
+          61.523993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "法国",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 646,
+        "confirmAddCut": 0,
+        "confirm": 1461391,
+        "suspect": 0,
+        "dead": 37492,
+        "heal": 123664,
+        "nowConfirm": 1300235,
+        "confirmCompare": 646,
+        "nowConfirmCompare": 639,
+        "healCompare": 0,
+        "deadCompare": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.05894,
+          47.525447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "西班牙",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": true,
+        "confirmAdd": 18669,
+        "confirmAddCut": 0,
+        "confirm": 1331756,
+        "suspect": 0,
+        "dead": 36495,
+        "heal": 196958,
+        "nowConfirm": 1098303,
+        "confirmCompare": 18669,
+        "nowConfirmCompare": 18431,
+        "healCompare": 0,
+        "deadCompare": 238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.321738,
+          39.498914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "阿根廷",
+        "continent": "南美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 12145,
+        "confirmAddCut": 0,
+        "confirm": 1195276,
+        "suspect": 0,
+        "dead": 32052,
+        "heal": 1009278,
+        "nowConfirm": 153946,
+        "confirmCompare": 12145,
+        "nowConfirmCompare": 454,
+        "healCompare": 11262,
+        "deadCompare": 429
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.516592,
+          -39.68883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "哥伦比亚",
+        "continent": "南美洲",
+        "date": "11.04",
+        "isUpdated": true,
+        "confirmAdd": 8958,
+        "confirmAddCut": 0,
+        "confirm": 1082726,
+        "suspect": 0,
+        "dead": 31796,
+        "heal": 985796,
+        "nowConfirm": 65134,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.084414,
+          3.492468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "英国",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 20078,
+        "confirmAddCut": 0,
+        "confirm": 1077099,
+        "suspect": 0,
+        "dead": 47340,
+        "heal": 2906,
+        "nowConfirm": 1026853,
+        "confirmCompare": 20078,
+        "nowConfirmCompare": 19625,
+        "healCompare": 56,
+        "deadCompare": 397
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.326357,
+          54.680405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "墨西哥",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 5250,
+        "confirmAddCut": 0,
+        "confirm": 938405,
+        "suspect": 0,
+        "dead": 92593,
+        "heal": 803086,
+        "nowConfirm": 42726,
+        "confirmCompare": 5250,
+        "nowConfirmCompare": -2973,
+        "healCompare": 7730,
+        "deadCompare": 493
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.176505,
+          26.103249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "秘鲁",
+        "continent": "南美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 902503,
+        "suspect": 0,
+        "dead": 34476,
+        "heal": 830612,
+        "nowConfirm": 37415,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.397303,
+          -10.425244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "意大利",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 28241,
+        "confirmAddCut": 0,
+        "confirm": 759829,
+        "suspect": 0,
+        "dead": 39412,
+        "heal": 302275,
+        "nowConfirm": 418142,
+        "confirmCompare": 28241,
+        "nowConfirmCompare": 21630,
+        "healCompare": 6258,
+        "deadCompare": 353
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.422205,
+          43.022432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南非",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 1241,
+        "confirmAddCut": 0,
+        "confirm": 728836,
+        "suspect": 0,
+        "dead": 19539,
+        "heal": 659259,
+        "nowConfirm": 50038,
+        "confirmCompare": 1241,
+        "nowConfirmCompare": -592,
+        "healCompare": 1759,
+        "deadCompare": 74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.256962,
+          -30.914726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "伊朗",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 637712,
+        "suspect": 0,
+        "dead": 36160,
+        "heal": 495473,
+        "nowConfirm": 106079,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688046,
+          32.427908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "德国",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 7533,
+        "confirmAddCut": 0,
+        "confirm": 577131,
+        "suspect": 0,
+        "dead": 10717,
+        "heal": 373391,
+        "nowConfirm": 193023,
+        "confirmCompare": 7533,
+        "nowConfirmCompare": 6150,
+        "healCompare": 1353,
+        "deadCompare": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.451526,
+          51.16569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "智利",
+        "continent": "南美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 514202,
+        "suspect": 0,
+        "dead": 14319,
+        "heal": 490820,
+        "nowConfirm": 9063,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.787004,
+          -24.794865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "伊拉克",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 482296,
+        "suspect": 0,
+        "dead": 11068,
+        "heal": 408756,
+        "nowConfirm": 62472,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.995298,
+          33.066872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "比利时",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 5186,
+        "confirmAddCut": 0,
+        "confirm": 452541,
+        "suspect": 0,
+        "dead": 12126,
+        "heal": 26661,
+        "nowConfirm": 413754,
+        "confirmCompare": 5186,
+        "nowConfirmCompare": 4256,
+        "healCompare": 662,
+        "deadCompare": 268
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.46582,
+          50.849667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "乌克兰",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 423683,
+        "suspect": 0,
+        "dead": 7749,
+        "heal": 176220,
+        "nowConfirm": 239714,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.297089,
+          49.002971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "印度尼西亚",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 418375,
+        "suspect": 0,
+        "dead": 14146,
+        "heal": 349497,
+        "nowConfirm": 54732,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.869836,
+          -4.320471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "波兰",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 414844,
+        "suspect": 0,
+        "dead": 6102,
+        "heal": 159986,
+        "nowConfirm": 248756,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.692307,
+          52.903649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "孟加拉",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 412647,
+        "suspect": 0,
+        "dead": 5983,
+        "heal": 329787,
+        "nowConfirm": 76877,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.23915,
+          24.19725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "菲律宾",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 387161,
+        "suspect": 0,
+        "dead": 7318,
+        "heal": 348967,
+        "nowConfirm": 30876,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.007502,
+          12.595877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "荷兰",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 34,
+        "confirmAddCut": 0,
+        "confirm": 382440,
+        "suspect": 0,
+        "dead": 7640,
+        "heal": 5975,
+        "nowConfirm": 368825,
+        "confirmCompare": 34,
+        "nowConfirmCompare": -7,
+        "healCompare": 41,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.291266,
+          52.132633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "土耳其",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 2343,
+        "confirmAddCut": 0,
+        "confirm": 382118,
+        "suspect": 0,
+        "dead": 10481,
+        "heal": 328824,
+        "nowConfirm": 42813,
+        "confirmCompare": 2343,
+        "nowConfirmCompare": 447,
+        "healCompare": 1817,
+        "deadCompare": 79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.993212,
+          40.150433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "捷克",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 12089,
+        "confirmAddCut": 0,
+        "confirm": 362985,
+        "suspect": 0,
+        "dead": 3913,
+        "heal": 185180,
+        "nowConfirm": 173892,
+        "confirmCompare": 12089,
+        "nowConfirmCompare": -2742,
+        "healCompare": 14572,
+        "deadCompare": 259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.472962,
+          49.817492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "沙特阿拉伯",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 348510,
+        "suspect": 0,
+        "dead": 5456,
+        "heal": 335153,
+        "nowConfirm": 7901,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.552071,
+          22.081968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巴基斯坦",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 1313,
+        "confirmAddCut": 0,
+        "confirm": 337573,
+        "suspect": 0,
+        "dead": 6867,
+        "heal": 316060,
+        "nowConfirm": 14646,
+        "confirmCompare": 1313,
+        "nowConfirmCompare": 681,
+        "healCompare": 614,
+        "deadCompare": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.388995,
+          29.979065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "以色列",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 545,
+        "confirmAddCut": 0,
+        "confirm": 316528,
+        "suspect": 0,
+        "dead": 2592,
+        "heal": 304069,
+        "nowConfirm": 9867,
+        "confirmCompare": 545,
+        "nowConfirmCompare": 98,
+        "healCompare": 435,
+        "deadCompare": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.851612,
+          31.046051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "罗马尼亚",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 258437,
+        "suspect": 0,
+        "dead": 7273,
+        "heal": 181175,
+        "nowConfirm": 69989,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.96676,
+          45.94316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "加拿大",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 4738,
+        "confirmAddCut": 0,
+        "confirm": 247916,
+        "suspect": 0,
+        "dead": 10334,
+        "heal": 206691,
+        "nowConfirm": 30891,
+        "confirmCompare": 4738,
+        "nowConfirmCompare": 1103,
+        "healCompare": 3563,
+        "deadCompare": 72
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.346771,
+          56.130366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "摩洛哥",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 4495,
+        "confirmAddCut": 0,
+        "confirm": 229565,
+        "suspect": 0,
+        "dead": 3900,
+        "heal": 189909,
+        "nowConfirm": 35756,
+        "confirmCompare": 4495,
+        "nowConfirmCompare": 1613,
+        "healCompare": 2808,
+        "deadCompare": 74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.09262,
+          31.791702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "瑞士",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 182303,
+        "suspect": 0,
+        "dead": 2471,
+        "heal": 83400,
+        "nowConfirm": 96432,
+        "confirmCompare": 0,
+        "nowConfirmCompare": -32,
+        "healCompare": 0,
+        "deadCompare": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.921253,
+          46.998665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "尼泊尔",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 179614,
+        "suspect": 0,
+        "dead": 1004,
+        "heal": 141134,
+        "nowConfirm": 37476,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.185808,
+          28.469215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "厄瓜多尔",
+        "continent": "南美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 548,
+        "confirmAddCut": 0,
+        "confirm": 170110,
+        "suspect": 0,
+        "dead": 12698,
+        "heal": 149048,
+        "nowConfirm": 8364,
+        "confirmCompare": 548,
+        "nowConfirmCompare": 542,
+        "healCompare": 0,
+        "deadCompare": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.433135,
+          -1.396241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "葡萄牙",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 149443,
+        "suspect": 0,
+        "dead": 2635,
+        "heal": 86589,
+        "nowConfirm": 60219,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.618811,
+          39.63034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "玻利维亚",
+        "continent": "南美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 69,
+        "confirmAddCut": 0,
+        "confirm": 141936,
+        "suspect": 0,
+        "dead": 8751,
+        "heal": 112526,
+        "nowConfirm": 20659,
+        "confirmCompare": 69,
+        "nowConfirmCompare": -412,
+        "healCompare": 471,
+        "deadCompare": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.588653,
+          -16.290154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "阿联酋",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 136149,
+        "suspect": 0,
+        "dead": 503,
+        "heal": 133490,
+        "nowConfirm": 2156,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.029773,
+          23.931673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巴拿马",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 677,
+        "confirmAddCut": 0,
+        "confirm": 135592,
+        "suspect": 0,
+        "dead": 2731,
+        "heal": 113379,
+        "nowConfirm": 19482,
+        "confirmCompare": 677,
+        "nowConfirmCompare": -148,
+        "healCompare": 814,
+        "deadCompare": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.381351,
+          8.21071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "瑞典",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 134532,
+        "suspect": 0,
+        "dead": 5969,
+        "heal": 4971,
+        "nowConfirm": 123592,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.624613,
+          63.506463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "卡塔尔",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 133143,
+        "suspect": 0,
+        "dead": 232,
+        "heal": 130202,
+        "nowConfirm": 2709,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.168663,
+          25.257986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "科威特",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 128080,
+        "suspect": 0,
+        "dead": 789,
+        "heal": 119080,
+        "nowConfirm": 8211,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.459289,
+          29.36415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "多米尼加",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 257,
+        "confirmAddCut": 0,
+        "confirm": 127848,
+        "suspect": 0,
+        "dead": 2252,
+        "heal": 105982,
+        "nowConfirm": 19614,
+        "confirmCompare": 257,
+        "nowConfirmCompare": -93,
+        "healCompare": 348,
+        "deadCompare": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.209234,
+          18.898948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "奥地利",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 118198,
+        "suspect": 0,
+        "dead": 1192,
+        "heal": 74292,
+        "nowConfirm": 42714,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.550072,
+          47.516232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "阿曼",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 116528,
+        "suspect": 0,
+        "dead": 1264,
+        "heal": 106540,
+        "nowConfirm": 8724,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.328931,
+          21.1728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "哈萨克斯坦",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 432,
+        "confirmAddCut": 0,
+        "confirm": 113741,
+        "suspect": 0,
+        "dead": 1857,
+        "heal": 106893,
+        "nowConfirm": 4991,
+        "confirmCompare": 432,
+        "nowConfirmCompare": 255,
+        "healCompare": 177,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.923684,
+          48.019574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "哥斯达黎加",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 863,
+        "confirmAddCut": 0,
+        "confirm": 112120,
+        "suspect": 0,
+        "dead": 1419,
+        "heal": 68604,
+        "nowConfirm": 42097,
+        "confirmCompare": 863,
+        "nowConfirmCompare": 373,
+        "healCompare": 475,
+        "deadCompare": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.206401,
+          10.39625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "危地马拉",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 379,
+        "confirmAddCut": 0,
+        "confirm": 108483,
+        "suspect": 0,
+        "dead": 3748,
+        "heal": 98658,
+        "nowConfirm": 6077,
+        "confirmCompare": 379,
+        "nowConfirmCompare": -533,
+        "healCompare": 902,
+        "deadCompare": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.171211,
+          17.103925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "埃及",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 197,
+        "confirmAddCut": 0,
+        "confirm": 108122,
+        "suspect": 0,
+        "dead": 6305,
+        "heal": 99765,
+        "nowConfirm": 2052,
+        "confirmCompare": 197,
+        "nowConfirmCompare": 70,
+        "healCompare": 113,
+        "deadCompare": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.87463,
+          26.586706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "日本本土",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 16,
+        "confirmAddCut": 0,
+        "confirm": 103309,
+        "suspect": 0,
+        "dead": 1794,
+        "heal": 93133,
+        "nowConfirm": 8382,
+        "confirmCompare": 16,
+        "nowConfirmCompare": 16,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.806821,
+          35.682943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "白俄罗斯",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 101329,
+        "suspect": 0,
+        "dead": 992,
+        "heal": 87985,
+        "nowConfirm": 12352,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.953389,
+          53.709808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "洪都拉斯",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 283,
+        "confirmAddCut": 0,
+        "confirm": 98688,
+        "suspect": 0,
+        "dead": 2706,
+        "heal": 41848,
+        "nowConfirm": 54134,
+        "confirmCompare": 283,
+        "nowConfirmCompare": -467,
+        "healCompare": 732,
+        "deadCompare": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.396727,
+          15.460934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "埃塞俄比亚",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 560,
+        "confirmAddCut": 0,
+        "confirm": 97502,
+        "suspect": 0,
+        "dead": 1494,
+        "heal": 55254,
+        "nowConfirm": 40754,
+        "confirmCompare": 560,
+        "nowConfirmCompare": -294,
+        "healCompare": 849,
+        "deadCompare": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.580702,
+          8.611052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "亚美尼亚",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 94776,
+        "suspect": 0,
+        "dead": 1413,
+        "heal": 57599,
+        "nowConfirm": 35764,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.649287,
+          40.282569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "委内瑞拉",
+        "continent": "南美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 395,
+        "confirmAddCut": 0,
+        "confirm": 93100,
+        "suspect": 0,
+        "dead": 810,
+        "heal": 87941,
+        "nowConfirm": 4349,
+        "confirmCompare": 395,
+        "nowConfirmCompare": -3,
+        "healCompare": 394,
+        "deadCompare": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.201995,
+          7.111342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "匈牙利",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 86769,
+        "suspect": 0,
+        "dead": 1973,
+        "heal": 20856,
+        "nowConfirm": 63940,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.636508,
+          46.900919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "约旦",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 4833,
+        "confirmAddCut": 0,
+        "confirm": 86576,
+        "suspect": 0,
+        "dead": 967,
+        "heal": 7993,
+        "nowConfirm": 77616,
+        "confirmCompare": 4833,
+        "nowConfirmCompare": 4644,
+        "healCompare": 135,
+        "deadCompare": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.016464,
+          30.609488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "黎巴嫩",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 1512,
+        "confirmAddCut": 0,
+        "confirm": 85209,
+        "suspect": 0,
+        "dead": 667,
+        "heal": 43885,
+        "nowConfirm": 40657,
+        "confirmCompare": 1512,
+        "nowConfirmCompare": 1497,
+        "healCompare": 0,
+        "deadCompare": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.862285,
+          33.854721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巴林",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 230,
+        "confirmAddCut": 0,
+        "confirm": 82363,
+        "suspect": 0,
+        "dead": 324,
+        "heal": 79680,
+        "nowConfirm": 2359,
+        "confirmCompare": 230,
+        "nowConfirmCompare": -133,
+        "healCompare": 362,
+        "deadCompare": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5577,
+          26.0667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "摩尔多瓦",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 710,
+        "confirmAddCut": 0,
+        "confirm": 77487,
+        "suspect": 0,
+        "dead": 1838,
+        "heal": 57402,
+        "nowConfirm": 18247,
+        "confirmCompare": 710,
+        "nowConfirmCompare": 163,
+        "healCompare": 527,
+        "deadCompare": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.442127,
+          47.590369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "乌兹别克斯坦",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 52,
+        "confirmAddCut": 0,
+        "confirm": 67553,
+        "suspect": 0,
+        "dead": 574,
+        "heal": 64815,
+        "nowConfirm": 2164,
+        "confirmCompare": 52,
+        "nowConfirmCompare": -95,
+        "healCompare": 144,
+        "deadCompare": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.585262,
+          41.377491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巴拉圭",
+        "continent": "南美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 472,
+        "confirmAddCut": 0,
+        "confirm": 64628,
+        "suspect": 0,
+        "dead": 1441,
+        "heal": 44523,
+        "nowConfirm": 18664,
+        "confirmCompare": 472,
+        "nowConfirmCompare": -57,
+        "healCompare": 517,
+        "deadCompare": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.387182,
+          -23.264857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "利比亚",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 63688,
+        "suspect": 0,
+        "dead": 893,
+        "heal": 36995,
+        "nowConfirm": 25800,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.498085,
+          27.06449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "斯洛伐克",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 63556,
+        "suspect": 0,
+        "dead": 235,
+        "heal": 14257,
+        "nowConfirm": 49064,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.699024,
+          48.669027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "尼日利亚",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 137,
+        "confirmAddCut": 0,
+        "confirm": 63173,
+        "suspect": 0,
+        "dead": 1151,
+        "heal": 59634,
+        "nowConfirm": 2388,
+        "confirmCompare": 137,
+        "nowConfirmCompare": -173,
+        "healCompare": 306,
+        "deadCompare": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.072114,
+          9.574879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "突尼斯",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 1220,
+        "confirmAddCut": 0,
+        "confirm": 63126,
+        "suspect": 0,
+        "dead": 1483,
+        "heal": 5032,
+        "nowConfirm": 56611,
+        "confirmCompare": 1220,
+        "nowConfirmCompare": 1118,
+        "healCompare": 0,
+        "deadCompare": 102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.545616,
+          34.112583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "爱尔兰",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 298,
+        "confirmAddCut": 0,
+        "confirm": 63048,
+        "suspect": 0,
+        "dead": 1922,
+        "heal": 23364,
+        "nowConfirm": 37762,
+        "confirmCompare": 298,
+        "nowConfirmCompare": 293,
+        "healCompare": 0,
+        "deadCompare": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.128755,
+          53.175556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "吉尔吉斯斯坦",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 895,
+        "confirmAddCut": 0,
+        "confirm": 60774,
+        "suspect": 0,
+        "dead": 1163,
+        "heal": 51815,
+        "nowConfirm": 7796,
+        "confirmCompare": 895,
+        "nowConfirmCompare": -187,
+        "healCompare": 1074,
+        "deadCompare": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.891572,
+          41.577476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "保加利亚",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 4041,
+        "confirmAddCut": 0,
+        "confirm": 60537,
+        "suspect": 0,
+        "dead": 1412,
+        "heal": 21544,
+        "nowConfirm": 37581,
+        "confirmCompare": 4041,
+        "nowConfirmCompare": 3471,
+        "healCompare": 507,
+        "deadCompare": 63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.48583,
+          42.733883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "阿尔及利亚",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 405,
+        "confirmAddCut": 0,
+        "confirm": 58979,
+        "suspect": 0,
+        "dead": 1980,
+        "heal": 40577,
+        "nowConfirm": 16422,
+        "confirmCompare": 405,
+        "nowConfirmCompare": 405,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.550604,
+          28.162121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "阿塞拜疆",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 58282,
+        "suspect": 0,
+        "dead": 768,
+        "heal": 45030,
+        "nowConfirm": 12484,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.67639,
+          40.670876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新加坡",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 58029,
+        "suspect": 0,
+        "dead": 28,
+        "heal": 57937,
+        "nowConfirm": 64,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.819836,
+          1.352083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "肯尼亚",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 492,
+        "confirmAddCut": 0,
+        "confirm": 57093,
+        "suspect": 0,
+        "dead": 1039,
+        "heal": 37846,
+        "nowConfirm": 18208,
+        "confirmCompare": 492,
+        "nowConfirmCompare": 76,
+        "healCompare": 404,
+        "deadCompare": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.906193,
+          -0.023559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "缅甸",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 55804,
+        "suspect": 0,
+        "dead": 1307,
+        "heal": 39063,
+        "nowConfirm": 15434,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.57907,
+          21.56923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巴勒斯坦",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 55408,
+        "suspect": 0,
+        "dead": 501,
+        "heal": 47744,
+        "nowConfirm": 7163,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.267994,
+          31.953841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "克罗地亚",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 54087,
+        "suspect": 0,
+        "dead": 628,
+        "heal": 39380,
+        "nowConfirm": 14079,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.976543,
+          45.7755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "波黑",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 53822,
+        "suspect": 0,
+        "dead": 1317,
+        "heal": 29156,
+        "nowConfirm": 23349,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.679076,
+          43.915886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "塞尔维亚",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 51083,
+        "suspect": 0,
+        "dead": 844,
+        "heal": 15913,
+        "nowConfirm": 34326,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.005859,
+          44.016521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "丹麦",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 50106,
+        "suspect": 0,
+        "dead": 728,
+        "heal": 36617,
+        "nowConfirm": 12761,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.501785,
+          56.263919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "加纳",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 48200,
+        "suspect": 0,
+        "dead": 320,
+        "heal": 47260,
+        "nowConfirm": 620,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.227698,
+          7.972607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "格鲁吉亚",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 44522,
+        "suspect": 0,
+        "dead": 362,
+        "heal": 28633,
+        "nowConfirm": 15527,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.356892,
+          42.315407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "希腊",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 2166,
+        "confirmAddCut": 0,
+        "confirm": 44246,
+        "suspect": 0,
+        "dead": 655,
+        "heal": 23074,
+        "nowConfirm": 20517,
+        "confirmCompare": 2166,
+        "nowConfirmCompare": 2153,
+        "healCompare": 0,
+        "deadCompare": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.824312,
+          39.074208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "阿富汗",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 41728,
+        "suspect": 0,
+        "dead": 1544,
+        "heal": 34355,
+        "nowConfirm": 5829,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.897161,
+          34.328772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "斯洛文尼亚",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 37382,
+        "suspect": 0,
+        "dead": 412,
+        "heal": 14074,
+        "nowConfirm": 22896,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.995463,
+          46.15124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "马来西亚",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 34393,
+        "suspect": 0,
+        "dead": 263,
+        "heal": 23995,
+        "nowConfirm": 10135,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.053088,
+          5.180242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "萨尔瓦多",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 34015,
+        "suspect": 0,
+        "dead": 987,
+        "heal": 29788,
+        "nowConfirm": 3240,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.630704,
+          13.728125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "北马其顿",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 911,
+        "confirmAddCut": 0,
+        "confirm": 33908,
+        "suspect": 0,
+        "dead": 1049,
+        "heal": 21665,
+        "nowConfirm": 11194,
+        "confirmCompare": 911,
+        "nowConfirmCompare": 466,
+        "healCompare": 421,
+        "deadCompare": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.715087,
+          41.63339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "澳大利亚",
+        "continent": "大洋洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 12,
+        "confirmAddCut": 0,
+        "confirm": 27622,
+        "suspect": 0,
+        "dead": 907,
+        "heal": 25407,
+        "nowConfirm": 1308,
+        "confirmCompare": 12,
+        "nowConfirmCompare": -11,
+        "healCompare": 23,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.775136,
+          -25.274398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "韩国",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 118,
+        "confirmAddCut": 0,
+        "confirm": 26925,
+        "suspect": 0,
+        "dead": 474,
+        "heal": 24616,
+        "nowConfirm": 1835,
+        "confirmCompare": 118,
+        "nowConfirmCompare": 10,
+        "healCompare": 106,
+        "deadCompare": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.886504,
+          36.0416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "喀麦隆",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 22103,
+        "suspect": 0,
+        "dead": 429,
+        "heal": 21151,
+        "nowConfirm": 523,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.756055,
+          3.84056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "挪威",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 332,
+        "confirmAddCut": 0,
+        "confirm": 21956,
+        "suspect": 0,
+        "dead": 282,
+        "heal": 11863,
+        "nowConfirm": 9811,
+        "confirmCompare": 332,
+        "nowConfirmCompare": 332,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.597069,
+          61.063734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "阿尔巴尼亚",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 381,
+        "confirmAddCut": 0,
+        "confirm": 21904,
+        "suspect": 0,
+        "dead": 532,
+        "heal": 11473,
+        "nowConfirm": 9899,
+        "confirmCompare": 381,
+        "nowConfirmCompare": 270,
+        "healCompare": 106,
+        "deadCompare": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.90755,
+          40.59538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "科特迪瓦",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 12,
+        "confirmAddCut": 0,
+        "confirm": 20765,
+        "suspect": 0,
+        "dead": 126,
+        "heal": 20427,
+        "nowConfirm": 212,
+        "confirmCompare": 12,
+        "nowConfirmCompare": -5,
+        "healCompare": 17,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.54708,
+          7.539989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "黑山",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 767,
+        "confirmAddCut": 0,
+        "confirm": 19977,
+        "suspect": 0,
+        "dead": 322,
+        "heal": 14635,
+        "nowConfirm": 5020,
+        "confirmCompare": 767,
+        "nowConfirmCompare": 586,
+        "healCompare": 179,
+        "deadCompare": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.37439,
+          42.708678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "卢森堡",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 533,
+        "confirmAddCut": 0,
+        "confirm": 19634,
+        "suspect": 0,
+        "dead": 167,
+        "heal": 10825,
+        "nowConfirm": 8642,
+        "confirmCompare": 533,
+        "nowConfirmCompare": 418,
+        "healCompare": 108,
+        "deadCompare": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.131935,
+          49.611621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "立陶宛",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 17453,
+        "suspect": 0,
+        "dead": 175,
+        "heal": 4934,
+        "nowConfirm": 12344,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.881275,
+          55.169438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "马达加斯加",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 17111,
+        "suspect": 0,
+        "dead": 244,
+        "heal": 16409,
+        "nowConfirm": 458,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.184543,
+          -21.304929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "赞比亚",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 16661,
+        "suspect": 0,
+        "dead": 349,
+        "heal": 15763,
+        "nowConfirm": 549,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.731062,
+          -13.539912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "芬兰",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 16637,
+        "suspect": 0,
+        "dead": 359,
+        "heal": 11300,
+        "nowConfirm": 4978,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.88485,
+          68.093501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "塞内加尔",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 15640,
+        "suspect": 0,
+        "dead": 326,
+        "heal": 15149,
+        "nowConfirm": 165,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.057422,
+          14.497401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "苏丹",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 39,
+        "confirmAddCut": 0,
+        "confirm": 13905,
+        "suspect": 0,
+        "dead": 837,
+        "heal": 6764,
+        "nowConfirm": 6304,
+        "confirmCompare": 39,
+        "nowConfirmCompare": 39,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.846127,
+          16.393206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莫桑比克",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 72,
+        "confirmAddCut": 0,
+        "confirm": 13202,
+        "suspect": 0,
+        "dead": 95,
+        "heal": 10695,
+        "nowConfirm": 2412,
+        "confirmCompare": 72,
+        "nowConfirmCompare": -185,
+        "healCompare": 256,
+        "deadCompare": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.529562,
+          -18.665695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "乌干达",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 13099,
+        "suspect": 0,
+        "dead": 115,
+        "heal": 7612,
+        "nowConfirm": 5372,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.290275,
+          1.373333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "纳米比亚",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 18,
+        "confirmAddCut": 0,
+        "confirm": 13030,
+        "suspect": 0,
+        "dead": 133,
+        "heal": 11304,
+        "nowConfirm": 1593,
+        "confirmCompare": 18,
+        "nowConfirmCompare": -85,
+        "healCompare": 103,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.745127,
+          -22.595496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "几内亚",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 12213,
+        "suspect": 0,
+        "dead": 73,
+        "heal": 10600,
+        "nowConfirm": 1540,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.696645,
+          9.945587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "马尔代夫",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 59,
+        "confirmAddCut": 0,
+        "confirm": 11796,
+        "suspect": 0,
+        "dead": 38,
+        "heal": 10962,
+        "nowConfirm": 796,
+        "confirmCompare": 59,
+        "nowConfirmCompare": 13,
+        "healCompare": 46,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.22068,
+          3.202778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "斯里兰卡",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 137,
+        "confirmAddCut": 0,
+        "confirm": 11744,
+        "suspect": 0,
+        "dead": 23,
+        "heal": 5581,
+        "nowConfirm": 6140,
+        "confirmCompare": 137,
+        "nowConfirmCompare": 137,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.626968,
+          8.476485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "安哥拉",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 349,
+        "confirmAddCut": 0,
+        "confirm": 11577,
+        "suspect": 0,
+        "dead": 291,
+        "heal": 5230,
+        "nowConfirm": 6056,
+        "confirmCompare": 349,
+        "nowConfirmCompare": 289,
+        "healCompare": 58,
+        "deadCompare": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.992646,
+          -12.234733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "刚果（金）",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 32,
+        "confirmAddCut": 0,
+        "confirm": 11427,
+        "suspect": 0,
+        "dead": 315,
+        "heal": 10783,
+        "nowConfirm": 329,
+        "confirmCompare": 32,
+        "nowConfirmCompare": 10,
+        "healCompare": 15,
+        "deadCompare": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.850656,
+          -0.715959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "塔吉克斯坦",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 11139,
+        "suspect": 0,
+        "dead": 83,
+        "heal": 10389,
+        "nowConfirm": 667,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.276093,
+          38.861034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "牙买加",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 9296,
+        "suspect": 0,
+        "dead": 214,
+        "heal": 4666,
+        "nowConfirm": 4416,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.635781,
+          18.201984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "海地",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 9057,
+        "suspect": 0,
+        "dead": 232,
+        "heal": 7429,
+        "nowConfirm": 1396,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.343207,
+          19.448662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "加蓬",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 8984,
+        "suspect": 0,
+        "dead": 55,
+        "heal": 8779,
+        "nowConfirm": 150,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.797766,
+          -0.582043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "佛得角",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 62,
+        "confirmAddCut": 0,
+        "confirm": 8944,
+        "suspect": 0,
+        "dead": 95,
+        "heal": 8155,
+        "nowConfirm": 694,
+        "confirmCompare": 62,
+        "nowConfirmCompare": 17,
+        "healCompare": 45,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.0418,
+          16.5388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "津巴布韦",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 21,
+        "confirmAddCut": 0,
+        "confirm": 8410,
+        "suspect": 0,
+        "dead": 246,
+        "heal": 7942,
+        "nowConfirm": 222,
+        "confirmCompare": 21,
+        "nowConfirmCompare": 17,
+        "healCompare": 3,
+        "deadCompare": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.820754,
+          -18.962835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "毛里塔尼亚",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 20,
+        "confirmAddCut": 0,
+        "confirm": 7724,
+        "suspect": 0,
+        "dead": 164,
+        "heal": 7437,
+        "nowConfirm": 123,
+        "confirmCompare": 20,
+        "nowConfirmCompare": 19,
+        "healCompare": 0,
+        "deadCompare": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.940835,
+          21.00789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "古巴",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 65,
+        "confirmAddCut": 0,
+        "confirm": 7035,
+        "suspect": 0,
+        "dead": 129,
+        "heal": 6374,
+        "nowConfirm": 532,
+        "confirmCompare": 65,
+        "nowConfirmCompare": 9,
+        "healCompare": 56,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.781167,
+          21.521757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巴哈马",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 55,
+        "confirmAddCut": 0,
+        "confirm": 6790,
+        "suspect": 0,
+        "dead": 149,
+        "heal": 4632,
+        "nowConfirm": 2009,
+        "confirmCompare": 55,
+        "nowConfirmCompare": -87,
+        "healCompare": 139,
+        "deadCompare": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39628,
+          25.03428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "博茨瓦纳",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 6642,
+        "suspect": 0,
+        "dead": 24,
+        "heal": 4676,
+        "nowConfirm": 1942,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.974578,
+          -23.964691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "马耳他",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 6506,
+        "suspect": 0,
+        "dead": 64,
+        "heal": 4505,
+        "nowConfirm": 1937,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.375416,
+          35.937496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "拉脱维亚",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 6439,
+        "suspect": 0,
+        "dead": 79,
+        "heal": 1444,
+        "nowConfirm": 4916,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.950235,
+          56.993065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "斯威士兰",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 13,
+        "confirmAddCut": 0,
+        "confirm": 5942,
+        "suspect": 0,
+        "dead": 117,
+        "heal": 5669,
+        "nowConfirm": 156,
+        "confirmCompare": 13,
+        "nowConfirmCompare": 1,
+        "healCompare": 12,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.465866,
+          -26.522503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "马拉维",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 5934,
+        "suspect": 0,
+        "dead": 184,
+        "heal": 5333,
+        "nowConfirm": 417,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.301525,
+          -13.254308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "叙利亚",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 45,
+        "confirmAddCut": 0,
+        "confirm": 5888,
+        "suspect": 0,
+        "dead": 298,
+        "heal": 2100,
+        "nowConfirm": 3490,
+        "confirmCompare": 45,
+        "nowConfirmCompare": 3,
+        "healCompare": 39,
+        "deadCompare": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.996815,
+          34.802075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "特立尼达和多巴哥",
+        "continent": "",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 50,
+        "confirmAddCut": 0,
+        "confirm": 5754,
+        "suspect": 0,
+        "dead": 110,
+        "heal": 4929,
+        "nowConfirm": 715,
+        "confirmCompare": 50,
+        "nowConfirmCompare": 7,
+        "healCompare": 42,
+        "deadCompare": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.276337,
+          10.430079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "吉布提",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 2,
+        "confirmAddCut": 0,
+        "confirm": 5575,
+        "suspect": 0,
+        "dead": 61,
+        "heal": 5467,
+        "nowConfirm": 47,
+        "confirmCompare": 2,
+        "nowConfirmCompare": -5,
+        "healCompare": 7,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.590275,
+          11.825138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "尼加拉瓜",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 5514,
+        "suspect": 0,
+        "dead": 156,
+        "heal": 4225,
+        "nowConfirm": 1133,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.604204,
+          13.28453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "刚果（布）",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 58,
+        "confirmAddCut": 0,
+        "confirm": 5348,
+        "suspect": 0,
+        "dead": 92,
+        "heal": 3887,
+        "nowConfirm": 1369,
+        "confirmCompare": 58,
+        "nowConfirmCompare": 58,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463336,
+          -3.97726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "苏里南",
+        "continent": "南美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 6,
+        "confirmAddCut": 0,
+        "confirm": 5218,
+        "suspect": 0,
+        "dead": 111,
+        "heal": 5087,
+        "nowConfirm": 20,
+        "confirmCompare": 6,
+        "nowConfirmCompare": 1,
+        "healCompare": 5,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.027783,
+          3.919305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "卢旺达",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 7,
+        "confirmAddCut": 0,
+        "confirm": 5162,
+        "suspect": 0,
+        "dead": 35,
+        "heal": 4930,
+        "nowConfirm": 197,
+        "confirmCompare": 7,
+        "nowConfirmCompare": -1,
+        "healCompare": 8,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.873888,
+          -1.940278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "爱沙尼亚",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 5125,
+        "suspect": 0,
+        "dead": 73,
+        "heal": 3904,
+        "nowConfirm": 1148,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.815542,
+          58.684416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "赤道几内亚",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 5089,
+        "suspect": 0,
+        "dead": 83,
+        "heal": 4965,
+        "nowConfirm": 41,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.267895,
+          1.650801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "冰岛",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 4957,
+        "suspect": 0,
+        "dead": 17,
+        "heal": 4081,
+        "nowConfirm": 859,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 876,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.247636,
+          65.061151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "塞浦路斯",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 174,
+        "confirmAddCut": 0,
+        "confirm": 4934,
+        "suspect": 0,
+        "dead": 27,
+        "heal": 1882,
+        "nowConfirm": 3025,
+        "confirmCompare": 174,
+        "nowConfirmCompare": 174,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.993775,
+          34.93826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "安道尔",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 22,
+        "confirmAddCut": 0,
+        "confirm": 4910,
+        "suspect": 0,
+        "dead": 75,
+        "heal": 3627,
+        "nowConfirm": 1208,
+        "confirmCompare": 22,
+        "nowConfirmCompare": -57,
+        "healCompare": 79,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.521801,
+          42.506285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "中非共和国",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 4866,
+        "suspect": 0,
+        "dead": 62,
+        "heal": 1924,
+        "nowConfirm": 2880,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.021693,
+          6.521909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "圭亚那",
+        "continent": "南美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 7,
+        "confirmAddCut": 0,
+        "confirm": 4245,
+        "suspect": 0,
+        "dead": 128,
+        "heal": 3320,
+        "nowConfirm": 797,
+        "confirmCompare": 7,
+        "nowConfirmCompare": -49,
+        "healCompare": 56,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.543592,
+          2.54955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "索马里",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 288,
+        "confirmAddCut": 0,
+        "confirm": 4229,
+        "suspect": 0,
+        "dead": 107,
+        "heal": 3247,
+        "nowConfirm": 875,
+        "confirmCompare": 288,
+        "nowConfirmCompare": 223,
+        "healCompare": 62,
+        "deadCompare": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.199616,
+          5.152149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "泰国",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 7,
+        "confirmAddCut": 0,
+        "confirm": 3804,
+        "suspect": 0,
+        "dead": 59,
+        "heal": 3612,
+        "nowConfirm": 133,
+        "confirmCompare": 7,
+        "nowConfirmCompare": 0,
+        "healCompare": 7,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.018899,
+          16.429919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "伯利兹",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 166,
+        "confirmAddCut": 0,
+        "confirm": 3790,
+        "suspect": 0,
+        "dead": 61,
+        "heal": 2262,
+        "nowConfirm": 1467,
+        "confirmCompare": 166,
+        "nowConfirmCompare": 132,
+        "healCompare": 32,
+        "deadCompare": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.777932,
+          16.557034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "冈比亚",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 7,
+        "confirmAddCut": 0,
+        "confirm": 3679,
+        "suspect": 0,
+        "dead": 120,
+        "heal": 3494,
+        "nowConfirm": 65,
+        "confirmCompare": 7,
+        "nowConfirmCompare": -292,
+        "healCompare": 298,
+        "deadCompare": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.383776,
+          13.455394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "马里",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 11,
+        "confirmAddCut": 0,
+        "confirm": 3584,
+        "suspect": 0,
+        "dead": 136,
+        "heal": 2775,
+        "nowConfirm": 673,
+        "confirmCompare": 11,
+        "nowConfirmCompare": 5,
+        "healCompare": 6,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.754337,
+          17.811578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "乌拉圭",
+        "continent": "南美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 31,
+        "confirmAddCut": 0,
+        "confirm": 3196,
+        "suspect": 0,
+        "dead": 61,
+        "heal": 2727,
+        "nowConfirm": 408,
+        "confirmCompare": 31,
+        "nowConfirmCompare": -39,
+        "healCompare": 69,
+        "deadCompare": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.765835,
+          -32.522779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "贝宁",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 2683,
+        "suspect": 0,
+        "dead": 41,
+        "heal": 2455,
+        "nowConfirm": 187,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.319534,
+          9.508116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "布基纳法索",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 13,
+        "confirmAddCut": 0,
+        "confirm": 2530,
+        "suspect": 0,
+        "dead": 67,
+        "heal": 2298,
+        "nowConfirm": 165,
+        "confirmCompare": 13,
+        "nowConfirmCompare": -4,
+        "healCompare": 17,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.75762,
+          12.280149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "几内亚比绍",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 2413,
+        "suspect": 0,
+        "dead": 41,
+        "heal": 1818,
+        "nowConfirm": 554,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.932881,
+          12.047954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "多哥",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 17,
+        "confirmAddCut": 0,
+        "confirm": 2381,
+        "suspect": 0,
+        "dead": 57,
+        "heal": 1691,
+        "nowConfirm": 633,
+        "confirmCompare": 17,
+        "nowConfirmCompare": 7,
+        "healCompare": 10,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.824782,
+          8.619543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "塞拉利昂",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 2,
+        "confirmAddCut": 0,
+        "confirm": 2368,
+        "suspect": 0,
+        "dead": 74,
+        "heal": 1803,
+        "nowConfirm": 491,
+        "confirmCompare": 2,
+        "nowConfirmCompare": 1,
+        "healCompare": 1,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.798846,
+          8.570286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "也门",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 2063,
+        "suspect": 0,
+        "dead": 601,
+        "heal": 1375,
+        "nowConfirm": 87,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.516388,
+          15.552727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新西兰",
+        "continent": "大洋洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 3,
+        "confirmAddCut": 0,
+        "confirm": 1971,
+        "suspect": 0,
+        "dead": 25,
+        "heal": 1873,
+        "nowConfirm": 73,
+        "confirmCompare": 3,
+        "nowConfirmCompare": -2,
+        "healCompare": 5,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.056994,
+          -44.206676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莱索托",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 1961,
+        "suspect": 0,
+        "dead": 44,
+        "heal": 988,
+        "nowConfirm": 929,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.233608,
+          -29.609988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "乍得",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 14,
+        "confirmAddCut": 0,
+        "confirm": 1513,
+        "suspect": 0,
+        "dead": 98,
+        "heal": 1331,
+        "nowConfirm": 84,
+        "confirmCompare": 14,
+        "nowConfirmCompare": 12,
+        "healCompare": 2,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.720709,
+          15.461973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "利比里亚",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 1436,
+        "suspect": 0,
+        "dead": 82,
+        "heal": 1294,
+        "nowConfirm": 60,
+        "confirmCompare": 0,
+        "nowConfirmCompare": -11,
+        "healCompare": 11,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.384081,
+          6.370537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "尼日尔",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 1222,
+        "suspect": 0,
+        "dead": 69,
+        "heal": 1141,
+        "nowConfirm": 12,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.076492,
+          17.608892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "越南",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 1202,
+        "suspect": 0,
+        "dead": 35,
+        "heal": 1069,
+        "nowConfirm": 98,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.329822,
+          13.852595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "圣马力诺",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 994,
+        "suspect": 0,
+        "dead": 42,
+        "heal": 730,
+        "nowConfirm": 222,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.457777,
+          43.94236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "列支敦士登公国",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 631,
+        "suspect": 0,
+        "dead": 3,
+        "heal": 379,
+        "nowConfirm": 249,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.555373,
+          47.166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巴布亚新几内亚",
+        "continent": "大洋洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 7,
+        "confirmAddCut": 0,
+        "confirm": 597,
+        "suspect": 0,
+        "dead": 7,
+        "heal": 580,
+        "nowConfirm": 10,
+        "confirmCompare": 7,
+        "nowConfirmCompare": 2,
+        "healCompare": 5,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.95555,
+          -6.314993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "布隆迪",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 8,
+        "confirmAddCut": 0,
+        "confirm": 597,
+        "suspect": 0,
+        "dead": 1,
+        "heal": 511,
+        "nowConfirm": 85,
+        "confirmCompare": 8,
+        "nowConfirmCompare": 8,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.911807,
+          -3.326511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "科摩罗",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 545,
+        "suspect": 0,
+        "dead": 7,
+        "heal": 498,
+        "nowConfirm": 40,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.336175,
+          -11.624529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "坦桑尼亚",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 509,
+        "suspect": 0,
+        "dead": 21,
+        "heal": 183,
+        "nowConfirm": 305,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9269,
+          -6.304398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "厄立特里亚",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 480,
+        "suspect": 0,
+        "dead": 0,
+        "heal": 426,
+        "nowConfirm": 54,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.432838,
+          16.393205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "毛里求斯",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 451,
+        "suspect": 0,
+        "dead": 10,
+        "heal": 413,
+        "nowConfirm": 28,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.568825,
+          -20.325085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "摩纳哥",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 22,
+        "confirmAddCut": 0,
+        "confirm": 397,
+        "suspect": 0,
+        "dead": 2,
+        "heal": 293,
+        "nowConfirm": 102,
+        "confirmCompare": 22,
+        "nowConfirmCompare": 10,
+        "healCompare": 12,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.424616,
+          43.738418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "不丹",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 2,
+        "confirmAddCut": 0,
+        "confirm": 358,
+        "suspect": 0,
+        "dead": 0,
+        "heal": 327,
+        "nowConfirm": 31,
+        "confirmCompare": 2,
+        "nowConfirmCompare": 1,
+        "healCompare": 1,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.393701,
+          27.541664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "蒙古",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 2,
+        "confirmAddCut": 0,
+        "confirm": 352,
+        "suspect": 0,
+        "dead": 0,
+        "heal": 314,
+        "nowConfirm": 38,
+        "confirmCompare": 2,
+        "nowConfirmCompare": 1,
+        "healCompare": 1,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.101989,
+          48.105998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "柬埔寨",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 292,
+        "suspect": 0,
+        "dead": 0,
+        "heal": 283,
+        "nowConfirm": 9,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.605908,
+          12.917383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巴巴多斯",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 238,
+        "suspect": 0,
+        "dead": 7,
+        "heal": 222,
+        "nowConfirm": 9,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.556421,
+          13.174169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "塞舌尔",
+        "continent": "非洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 4,
+        "confirmAddCut": 0,
+        "confirm": 157,
+        "suspect": 0,
+        "dead": 0,
+        "heal": 151,
+        "nowConfirm": 6,
+        "confirmCompare": 4,
+        "nowConfirmCompare": 2,
+        "healCompare": 2,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47013,
+          -4.666883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "文莱",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 148,
+        "suspect": 0,
+        "dead": 3,
+        "heal": 143,
+        "nowConfirm": 2,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.733418,
+          4.510466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "安提瓜和巴布达",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 128,
+        "suspect": 0,
+        "dead": 3,
+        "heal": 117,
+        "nowConfirm": 8,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.807301,
+          17.048032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "圣卢西亚",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 13,
+        "confirmAddCut": 0,
+        "confirm": 97,
+        "suspect": 0,
+        "dead": 0,
+        "heal": 32,
+        "nowConfirm": 65,
+        "confirmCompare": 13,
+        "nowConfirmCompare": 9,
+        "healCompare": 4,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.978893,
+          13.866952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "圣文森特和格林纳丁斯",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 75,
+        "suspect": 0,
+        "dead": 0,
+        "heal": 71,
+        "nowConfirm": 4,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.232611,
+          13.006294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "多米尼克",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 50,
+        "suspect": 0,
+        "dead": 0,
+        "heal": 33,
+        "nowConfirm": 17,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.353837,
+          15.452403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "马提尼克岛",
+        "continent": "北美洲",
+        "date": "03.23",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 37,
+        "suspect": 0,
+        "dead": 1,
+        "heal": 0,
+        "nowConfirm": 36,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.991404,
+          14.646006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "斐济",
+        "continent": "大洋洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 34,
+        "suspect": 0,
+        "dead": 2,
+        "heal": 31,
+        "nowConfirm": 1,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.890515,
+          -17.627276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "东帝汶",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 30,
+        "suspect": 0,
+        "dead": 0,
+        "heal": 29,
+        "nowConfirm": 1,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.947655,
+          -8.906604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "格林纳达",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 29,
+        "suspect": 0,
+        "dead": 0,
+        "heal": 27,
+        "nowConfirm": 2,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.67785,
+          12.119329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "梵蒂冈",
+        "continent": "欧洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 27,
+        "suspect": 0,
+        "dead": 0,
+        "heal": 15,
+        "nowConfirm": 12,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.493058,
+          41.892714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "老挝",
+        "continent": "亚洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 24,
+        "suspect": 0,
+        "dead": 0,
+        "heal": 23,
+        "nowConfirm": 1,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.486297,
+          19.857358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "圣基茨和尼维斯",
+        "continent": "北美洲",
+        "date": "11.04",
+        "isUpdated": false,
+        "confirmAdd": 0,
+        "confirmAddCut": 0,
+        "confirm": 19,
+        "suspect": 0,
+        "dead": 0,
+        "heal": 19,
+        "nowConfirm": 0,
+        "confirmCompare": 0,
+        "nowConfirmCompare": 0,
+        "healCompare": 0,
+        "deadCompare": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.805952,
+          17.361303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "中国",
+        "confirm": 92045,
+        "dead": 4746,
+        "heal": 86743
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.122873,
+          30.962462
+        ]
+      }
+    }
+  ]
+}

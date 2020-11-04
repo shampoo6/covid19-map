@@ -1,0 +1,16 @@
+{
+  "name": "covid19-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "crypto-js": "^4.0.0",
+    "express": "^4.17.1"
+  }
+}
